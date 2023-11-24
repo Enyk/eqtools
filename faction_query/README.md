@@ -6,8 +6,8 @@ Usage:
 * Set up your database.
 * Enter the database connection information in eqdb.ini
 * On a command line, run: fq.py
-* You will be prompted for user/pass to your database if you do not set those in the eqdb.ini file.
-* You will then be asked what faction you wish to query. Asterisks are accepted.
+  - You will be prompted for user/pass to your database if you do not set those in the eqdb.ini file.
+  - You will then be asked what faction you wish to query. Asterisks are accepted.
   - Example:
     - \*freeport\* - Returns 'Citizens of Freeport' and 'The Freeport Militia'.
 
